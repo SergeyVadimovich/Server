@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="67.531" height="67.72" viewBox="0 0 67.531 67.72">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" y1="40.613" x2="67.531" y2="27.107" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#dcdbdb"/>
+      <stop offset="1" stop-color="#696969"/>
+    </linearGradient>
+  </defs>
+  <circle id="Керпка" class="cls-1" cx="33.765" cy="33.86" r="33.766"/>
+</svg>
